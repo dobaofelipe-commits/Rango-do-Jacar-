@@ -1,8 +1,8 @@
-# Allicode
+# Rango-do-Jacare
 
-Um projeto educacional full-stack em JavaScript desenvolvido para alunos do primeiro período dos cursos de graduação do **CEFET**.
+Um projeto educacional full-stack que tem como objetivo mostrar lugares perto do campus para comer ou confraternizar.
 
-**Allicode** apresenta o desenvolvimento web moderno por meio da prática utilizando:
+**Rango do Jacere** apresenta o desenvolvimento web moderno por meio da prática utilizando:
 
 - **Frontend:** React + Vite  
 - **Backend:** Express (Node.js)
